@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+networkx
+wordcloud
+emoji
+nltk
+textblob
+Pillow
+transformers
+torch
+scikit-learn
+fpdf
+altair
